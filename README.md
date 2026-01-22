@@ -7,6 +7,11 @@ GitHub RAW URLs to ensure environment-agnostic execution and full
 reproducibility across local machines, Jupyter notebooks, and cloud
 runtimes.
 
+## Analysis Notebook
+The primary analysis is contained in:
+<sub> `analysis/vibration-signal.ipynb` </sub>
+
+The notebook loads datasets via public GitHub RAW URLs to ensure reproducibility without local file dependencies.
 
 ## Sampling Rate
 <sub> _Derived from Module 2.3: Sampling as discretization of time Aliasing discussion (difference between signal frequency and sampling rate)_ </sub>
